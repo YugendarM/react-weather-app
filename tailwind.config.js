@@ -8,6 +8,7 @@ export default {
     extend: {
       backgroundImage: {
         'cloud-bg': "url('./src/assets/bg.jpg')",
+        'partly-cloud': "url('./assets/videos/partly-cloud.mp4')"
       }
     },
   },
